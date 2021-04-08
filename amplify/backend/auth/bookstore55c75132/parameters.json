@@ -1,6 +1,6 @@
 {
     "identityPoolName": "bookstore55c75132_identitypool_55c75132",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "bookst55c75132",
     "userPoolName": "bookstore55c75132_userpool_55c75132",
     "autoVerifiedAttributes": [
