@@ -10,6 +10,11 @@
             "StackName": "amplify-bookstore-prod-83653",
             "StackId": "arn:aws:cloudformation:us-east-1:186999082565:stack/amplify-bookstore-prod-83653/19c0eee0-9867-11eb-b0a4-125caf34a739",
             "AmplifyAppId": "d3ezvjporvbe12"
+        },
+        "categories": {
+            "auth": {
+                "bookstore55c75132": {}
+            }
         }
     }
 }
